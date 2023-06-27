@@ -1,4 +1,4 @@
-# 3-Tier AWS VPC Network deployed with Terraform
+# 3-Tier AWS VPC Network Deployment with Terraform
 
 ## Overview
 This is a Terraform script that fully automates the deployment of an AWS VPC network complete with public and private subnets spread across two AZs to provide better fault tolerance and availability as well as an IGW and route table.
